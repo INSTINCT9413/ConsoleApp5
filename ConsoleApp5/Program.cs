@@ -3,7 +3,7 @@
 /* 
  * Programmer: Jacob Brookhouse
  * Date: 08/27/2020
- * Purpose: a short description about the program
+ * Purpose: Console app that displays point values and weight values, then calculates the average weight value.
  * Class: CITP 180
  * Assignment: Chapter 2 - Programming Excercise 8
  */
