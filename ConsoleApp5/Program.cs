@@ -1,5 +1,10 @@
 ﻿#region About this program
 
+/*
+ * Group Number: Group #1
+ * Group Members: Jacob B, Charles B, Tyler D, Bozhou C, Cyrus C
+ */
+
 /* 
  * Programmer: Jacob Brookhouse
  * Date: 08/27/2020
@@ -8,11 +13,19 @@
  * Assignment: Chapter 2 - Programming Excercise 8
  */
 
-/*
- * Group Number: Group #1
- * Group Members: Jacob B, Charles B, Tyler D, Bozhou C, Cyrus C
- */
+/*Task:
+ *  Write a program that computes a weighted average giving the following weights.
 
+    Homework: 10% Projects: 35% Quizzes: 10% Exams: 30% Final Exam: 15%
+
+    Do a compile-time initialization with the following values: 
+
+    Homework: 97; Projects: 82; Quizzes: 60; Exams: 75; Final Exam 80. 
+
+    Display all values, including the weights, appropriately labeled and formatted. 
+   
+    Rerun the application with different values.
+ */
 #endregion
 
 using System;
