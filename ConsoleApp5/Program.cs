@@ -66,7 +66,7 @@ namespace ConsoleApp5
 			Console.WriteLine("Project value: {0}", Projects);
 			Console.WriteLine("Quiz value: {0}", Quizzes);
 			Console.WriteLine("Exam value: {0}", Exams);
-			Console.WriteLine("Final Exam value:{0}", FinalExam);
+			Console.WriteLine("Final Exam value: {0}", FinalExam); //Fixed format issue, missing space
 			Console.WriteLine(Environment.NewLine);
 
 			// Display weight values
@@ -79,7 +79,7 @@ namespace ConsoleApp5
 			Console.WriteLine(Environment.NewLine);
 
 			// Display the weighted average.
-			Console.WriteLine("Weighted Average: {0:00.00}%", weightedAverage);
+			Console.WriteLine("Weighted Average: {0:00}%", weightedAverage); //Removed formatting as a decimal to a whole percentage
 
 			Console.Read();
 		}
