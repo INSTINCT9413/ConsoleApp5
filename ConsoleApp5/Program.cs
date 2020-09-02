@@ -60,7 +60,7 @@ namespace ConsoleApp5
 				QuizWeight + ExamWeight + FinalExamWeight);
 
 			// Display all the values of each percentage, weights, and weight average
-			// Display percentage values
+			// Display point values
 			Console.WriteLine("Point Values");
 			Console.WriteLine("Homework value: {0}", Homework);
 			Console.WriteLine("Project value: {0}", Projects);
